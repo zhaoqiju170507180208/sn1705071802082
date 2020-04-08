@@ -77,6 +77,7 @@ public class Ch6Activity1 extends AppCompatActivity {
                 Toast.makeText(this,"item3",Toast.LENGTH_SHORT).show();
                 break;
         }
+
         return true;
     }
 
